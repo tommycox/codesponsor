@@ -20,6 +20,7 @@ whitenoise = "*"
 newrelic = "*"
 celery = "*"
 flower = "*"
+django-anymail = "*"
 
 
 [dev-packages]
